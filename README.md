@@ -25,6 +25,14 @@
 - Modern CSS
 
 
+## Continued development
+
+- Delete Item
+- Clear All Items
+- Sorting Items
+- Grouping Items
+
+
 ## Acknowledgments
 
 - The Net Ninja's Modern JavaScript Course
