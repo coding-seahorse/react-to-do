@@ -1,7 +1,7 @@
-# react-to-do
-React To-Do website
+<h1 align="center">React To-Do List</h1>
 
 ## Built With
+
 - ReactJS
 - Semantic HTML5 Markup
 - Modern CSS
@@ -10,10 +10,15 @@ React To-Do website
 
 ## Features
 
+- Login authentication
 - Local Storage
+- Add Items
+- Delete Items
+- Mark Items as completed
+- Priority Levels
+- Simple UI
 - Dark/Light Theme Toggle
 - Responsive Layout
-- Single Page Design
 - Modern CSS
 
 
