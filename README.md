@@ -33,6 +33,11 @@
 - Grouping Items
 
 
+## Screenshots
+
+![Screenshot 2022-11-01 152543](https://user-images.githubusercontent.com/115553545/199271459-251cbe31-0939-4347-ba56-3982ba2faf9e.png)
+
+
 ## Acknowledgments
 
 - The Net Ninja's Modern JavaScript Course
