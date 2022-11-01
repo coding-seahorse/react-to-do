@@ -13,11 +13,11 @@
 
 ## Features
 
-- Login authentication
+- Login Authentication
 - Local Storage
 - Add Items
 - Delete Items
-- Mark Items as completed
+- Mark Items as Completed
 - Priority Levels
 - Simple UI
 - Dark/Light Theme Toggle
